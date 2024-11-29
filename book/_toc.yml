@@ -6,8 +6,11 @@ parts:
     chapters:
     - file: some_content/overview.md
       sections:
-      - file: some_content/text_and_code.ipynb
-      - file: Trial_PA_1_useful_tricks.ipynb      
+      - file: Chapter 1.ipynb  
+      - file: Chapter 2.ipynb
+      - file: Chapter 3.ipynb
+      - file: Chapter 4.ipynb
+      - file: Chapter 5.ipynb 
     - file: references.md
     - file: changelog.md
     - file: credits.md
