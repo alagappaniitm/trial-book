@@ -6,11 +6,11 @@ parts:
     chapters:
     - file: some_content/overview.md
       sections:
-      - file: Chapter 1.ipynb  
-      - file: Chapter 2.ipynb
-      - file: Chapter 3.ipynb
-      - file: Chapter 4.ipynb
-      - file: Chapter 5.ipynb 
+      - file: some_content/Chapter 1.ipynb  
+      - file: some_content/Chapter 2.ipynb
+      - file: some_content/Chapter 3.ipynb
+      - file: some_content/Chapter 4.ipynb
+      - file: some_content/Chapter 5.ipynb 
     - file: references.md
     - file: changelog.md
     - file: credits.md
